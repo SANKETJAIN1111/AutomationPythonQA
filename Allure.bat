@@ -1,0 +1,1 @@
+allure serve D:\AutomationPythonQA\AutomationPython\Reports\Allure-Reports

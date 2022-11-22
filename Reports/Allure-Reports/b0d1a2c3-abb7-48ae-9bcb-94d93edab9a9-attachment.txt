@@ -1,0 +1,3 @@
+[32mINFO    [0m root:BaseClass.py:38 Launching Chrome Browser
+[32mINFO    [0m root:BaseClass.py:60 launch Url : https://admin-demo.nopcommerce.com/
+[32mINFO    [0m root:BaseClass.py:25 Browser And Driver Closeed !!!!!

@@ -1,0 +1,18 @@
+04/21/2021 09:30:33 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/21/2021 09:30:37 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/21/2021 09:30:39 PM: INFO: test Login Page Title
+test Login Page Title
+04/21/2021 09:30:40 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/21/2021 09:30:40 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/21/2021 09:30:48 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/21/2021 09:30:48 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/21/2021 09:30:48 PM: INFO: ************Login Successfully *************
+************Login Successfully *************
+04/21/2021 09:30:59 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!

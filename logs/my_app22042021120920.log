@@ -1,0 +1,34 @@
+04/22/2021 12:09:26 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:09:29 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:09:31 PM: INFO: test Search Customer By Mail Id
+test Search Customer By Mail Id
+04/22/2021 12:09:32 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:09:33 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:09:39 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:09:40 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 12:09:40 PM: INFO: Add Customer Details
+Add Customer Details
+04/22/2021 12:10:09 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:13 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:15 PM: INFO: ************Test 002 Search Customers *************
+************Test 002 Search Customers *************
+04/22/2021 12:10:15 PM: INFO: test Search Customer By Mail Id
+test Search Customer By Mail Id
+04/22/2021 12:10:17 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:10:17 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:10:26 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:10:26 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 12:10:26 PM: INFO: ************Login Successfully *************
+************Login Successfully *************

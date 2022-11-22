@@ -1,0 +1,36 @@
+04/22/2021 01:28:27 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 01:28:27 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 01:28:32 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 01:28:32 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 01:28:34 PM: INFO: Test Case Home Page Title 
+Test Case Home Page Title 
+04/22/2021 01:28:34 PM: INFO: Test Case Home Page Title 
+Test Case Home Page Title 
+04/22/2021 01:28:34 PM: INFO: Expected : Your store. Loginl Actual: Your store. Login
+Expected : Your store. Loginl Actual: Your store. Login
+04/22/2021 01:28:35 PM: INFO: Expected : Your store. Login1 Actual: Your store. Login
+Expected : Your store. Login1 Actual: Your store. Login
+04/22/2021 01:28:37 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 01:28:38 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 01:28:42 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 01:28:46 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 01:28:49 PM: INFO: test Login Page Title
+test Login Page Title
+04/22/2021 01:28:50 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 01:28:50 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 01:28:58 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 01:28:58 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 01:28:59 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!

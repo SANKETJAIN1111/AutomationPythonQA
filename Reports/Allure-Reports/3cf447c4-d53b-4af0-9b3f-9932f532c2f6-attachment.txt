@@ -1,0 +1,8 @@
+[32mINFO    [0m root:BaseClass.py:38 Launching Chrome Browser
+[32mINFO    [0m root:BaseClass.py:60 launch Url : https://admin-demo.nopcommerce.com/
+[32mINFO    [0m root:BaseClass.py:25 test Search Customer By Mail Id
+[32mINFO    [0m root:BaseClass.py:25 Enter Username admin@yourstore.com
+[32mINFO    [0m root:BaseClass.py:25 Enter Password  admin
+[32mINFO    [0m root:BaseClass.py:25 Click On Button LOG IN
+[32mINFO    [0m root:BaseClass.py:25 Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+[32mINFO    [0m root:BaseClass.py:25 Add Customer Details

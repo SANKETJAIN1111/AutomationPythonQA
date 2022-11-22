@@ -1,0 +1,28 @@
+04/22/2021 12:08:02 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:08:05 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:08:08 PM: INFO: test Login Page Title
+test Login Page Title
+04/22/2021 12:08:09 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:08:09 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:08:16 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:08:16 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 12:08:16 PM: INFO: ************Login Successfully *************
+************Login Successfully *************
+04/22/2021 12:08:24 PM: INFO: ************* Providing customer info**************
+************* Providing customer info**************
+04/22/2021 12:08:38 PM: INFO: ************* Saving customer info**************
+************* Saving customer info**************
+04/22/2021 12:08:38 PM: INFO: ************* Add customer Validation Started**************
+************* Add customer Validation Started**************
+04/22/2021 12:08:39 PM: INFO: Testcase Home Page is Failed
+Testcase Home Page is Failed
+04/22/2021 12:08:39 PM: INFO: ******* Ending Home Page Tittle Test************
+******* Ending Home Page Tittle Test************
+04/22/2021 12:08:40 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!

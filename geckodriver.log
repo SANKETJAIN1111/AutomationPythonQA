@@ -1,0 +1,213 @@
+1614925012543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.SIXpnq1WcbeZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925033122	Marionette	INFO	Listening on port 62895
+1614925033238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925033301	Marionette	ERROR	[21] No reply from Marionette:Register
+1614925036116	Marionette	INFO	Stopped listening on port 62894
+1614925036876	Marionette	ERROR	[34] No1614925038780	Marionette	INFO	Stopped listening on port 62895
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+1614925040807	Marione1614925043714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-prof1614925045921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\MozilJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925051507	Marionette	INFO	Listening on port 6JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925060509	Marionette	INFO	Listening on port 63192
+16149251614925068572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614925089919	Marionette	INFO	Stopped listening on port 63176
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925096792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.lcPz3E7ELjQk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925105918	Marionette	INFO	Listening on port 63558
+1614925106245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925106269	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925119322	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614925122111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1614925125347	Marionette	INFO	Stopped listening on port 63558
+1614925602394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.sjuHZD0RKtHz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925610957	Marionette	INFO	Listening on port 49616
+1614925611161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925611193	Marionette	ERROR	[18] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925613845	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1614925614256	Marionette	ERROR	[24] No reply from Marionette:Register
+1614925616639	Marionette	INFO	Stopped listening on port 49616
+1614925622522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.iVjYTwIGLGQf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925628591	Marionette	INFO	Listening on port 49804
+1614925628803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925628831	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925629538	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1614925630732	Marionette	ERROR	[24] No reply from Marionette:Register
+1614925632689	Marionette	INFO	Stopped listening on port 49804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925638212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.MATn7mT7e84n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925644208	Marionette	INFO	Listening on port 49968
+1614925644781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925644808	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925655559	Marionette	INFO	Stopped listening on port 49968
+[Parent 52124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925825262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.bm6EdOot4Xf0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925844472	Marionette	INFO	Listening on port 50956
+1614925844898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925845024	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925852603	Marionette	INFO	Stopped listening on port 50956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925863814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.SCe2U9X3H5Nj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925878810	Marionette	INFO	Listening on port 51268
+1614925879200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925879228	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925888156	Marionette	INFO	Stopped listening on port 51286
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ate to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925896780	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614925903861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/Create:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1614925916576	Marionette	INFO	Stopped listening on port 51268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614925924520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.xFRvUevuKEM9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614925932132	Marionette	INFO	Listening on port 51692
+1614925932299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614925932328	Marionette	ERROR	[18] No reply from Marionette:Register
+1614925948124	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1614925951393	Marionette	INFO	Stopped listening on port 51692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614927049836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.WtbS8gdtNpVh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614927074516	Marionette	INFO	Listening on port 57301
+1614927075101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614927075340	Marionette	ERROR	[21] No reply from Marionette:Register
+1614927084018	Marionette	INFO	Stopped listening on port 57299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614932800273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.cu2gQM97Cy9B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614932810404	Marionette	INFO	Listening on port 53893
+1614932810910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614932810970	Marionette	ERROR	[18] No reply from Marionette:Register
+1614932816844	Marionette	INFO	Stopped listening on port 53893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614932822712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.vN9GWZq3Qt8Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614932831901	Marionette	INFO	Listening on port 54030
+1614932832255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614932832284	Marionette	ERROR	[18] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614932834882	Marionette	ERROR	[30] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1614932835529	Marionette	ERROR	[30] No reply from Marionette:Register
+1614932836261	Marionette	INFO	Stopped listening on port 54030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614932842071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\52128856\\AppData\\Local\\Temp\\rust_mozprofile.47VAY60TfWh9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614932849736	Marionette	INFO	Listening on port 54215
+1614932850175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614932850207	Marionette	ERROR	[18] No reply from Marionette:Register
+1614932855795	Marionette	ERROR	[34] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1614932856402	Marionette	ERROR	[34] No reply from Marionette:Register
+1614932862701	Marionette	INFO	Stopped listening on port 54215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

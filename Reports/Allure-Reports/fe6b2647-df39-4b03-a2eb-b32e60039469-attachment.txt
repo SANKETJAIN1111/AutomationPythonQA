@@ -1,0 +1,13 @@
+[32mINFO    [0m root:BaseClass.py:38 Launching Chrome Browser
+[32mINFO    [0m root:BaseClass.py:60 launch Url : https://admin-demo.nopcommerce.com/
+[32mINFO    [0m root:BaseClass.py:25 test Login Page Title
+[32mINFO    [0m root:BaseClass.py:25 Enter Username admin@yourstore.com
+[32mINFO    [0m root:BaseClass.py:25 Enter Password  admin
+[32mINFO    [0m root:BaseClass.py:25 Click On Button LOG IN
+[32mINFO    [0m root:BaseClass.py:25 Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+[32mINFO    [0m root:BaseClass.py:25 ************Login Successfully *************
+[32mINFO    [0m root:BaseClass.py:25 ************* Providing customer info**************
+[32mINFO    [0m root:BaseClass.py:25 ************* Saving customer info**************
+[32mINFO    [0m root:BaseClass.py:25 ************* Add customer Validation Started**************
+[32mINFO    [0m root:BaseClass.py:25 Unicode Format Error !!
+[32mINFO    [0m root:BaseClass.py:25 Browser And Driver Closeed !!!!!

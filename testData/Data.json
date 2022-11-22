@@ -1,0 +1,17 @@
+{
+	"Data":[
+			{
+			"ChromeDriverPath":"D:\\AutomationPythonQA\\AutomationPython\\Utilities\\chromedriver.exe",
+			"FirefoxDriverPath":"D:\\AutomationPythonQA\\AutomationPython\\Utilities\\geckodriver.exe",
+			"IeDriverPath":"D:\\AutomationPythonQA\\AutomationPython\\Utilities\\IEDriverServer.exe",
+			"BaseUrl":"https://admin-demo.nopcommerce.com/",
+			"ExcelFilePath":"D:\\AutomationPythonQA\\AutomationPython\\testData\\LoginData.xlsx",
+			"ReportPath":"D:\\AutomationPythonQA\\AutomationPython\\Reports\\",
+			"ExcelSheetCredentials":"Credentials",
+			"ExcelSheetBrowser":"Browser",
+			"ExcelSheetWorkSheet":"WorkSheet",
+			"LoggerPath":"D:\\AutomationPythonQA\\AutomationPython\\logs\\",
+			"ExcelPath":"D:\\AutomationPythonQA\\AutomationPython\\Utilities\\IEDriverServer.exe"
+			}
+	]
+}

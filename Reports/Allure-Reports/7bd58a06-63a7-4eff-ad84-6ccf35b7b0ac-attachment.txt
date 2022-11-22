@@ -1,0 +1,13 @@
+[32mINFO    [0m root:BaseClass.py:38 Launching Chrome Browser
+[32mINFO    [0m root:BaseClass.py:60 launch Url : https://admin-demo.nopcommerce.com/
+[32mINFO    [0m root:BaseClass.py:25 ************Test 002 DDT Login *************
+[32mINFO    [0m root:BaseClass.py:25 ************Verify Login Page **********
+[32mINFO    [0m root:BaseClass.py:25 test Login Page Title
+[32mINFO    [0m root:BaseClass.py:25 Enter Username admin@yourstore.com
+[32mINFO    [0m root:BaseClass.py:25 Enter Password  admin
+[32mINFO    [0m root:BaseClass.py:25 Click On Button LOG IN
+[32mINFO    [0m root:BaseClass.py:25 ****Passed****
+[32mINFO    [0m root:BaseClass.py:25 Login DDT test Passed ...
+[32mINFO    [0m root:BaseClass.py:25 *********************End of Login DDt Test **********
+[32mINFO    [0m root:BaseClass.py:25 ******Completed TC Login  002
+[32mINFO    [0m root:BaseClass.py:25 Browser And Driver Closeed !!!!!

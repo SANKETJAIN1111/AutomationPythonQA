@@ -1,0 +1,96 @@
+04/22/2021 12:09:56 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:09:57 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:00 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:00 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:03 PM: INFO: Test Case Home Page Title 
+Test Case Home Page Title 
+04/22/2021 12:10:04 PM: INFO: Expected : Your store. Login1 Actual: Your store. Login
+Expected : Your store. Login1 Actual: Your store. Login
+04/22/2021 12:10:05 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 12:10:09 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 12:10:13 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:16 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:17 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:19 PM: INFO: Test Case Home Page Title 
+Test Case Home Page Title 
+04/22/2021 12:10:19 PM: INFO: Expected : Your store. Loginl Actual: Your store. Login
+Expected : Your store. Loginl Actual: Your store. Login
+04/22/2021 12:10:20 PM: INFO: Assertion False
+Assertion False
+04/22/2021 12:10:21 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:23 PM: INFO: ************Test 002 DDT Login *************
+************Test 002 DDT Login *************
+04/22/2021 12:10:23 PM: INFO: ************Verify Login Page **********
+************Verify Login Page **********
+04/22/2021 12:10:24 PM: INFO: test Login Page Title
+test Login Page Title
+04/22/2021 12:10:25 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:10:25 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:10:33 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:10:33 PM: INFO: ****Passed****
+****Passed****
+04/22/2021 12:10:33 PM: INFO: Login DDT test Passed ...
+Login DDT test Passed ...
+04/22/2021 12:10:33 PM: INFO: *********************End of Login DDt Test **********
+*********************End of Login DDt Test **********
+04/22/2021 12:10:33 PM: INFO: ******Completed TC Login  002 
+******Completed TC Login  002 
+04/22/2021 12:10:34 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 12:10:38 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
+04/22/2021 12:10:39 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:43 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:44 PM: INFO: Launching Chrome Browser
+Launching Chrome Browser
+04/22/2021 12:10:45 PM: INFO: test Login Page Title
+test Login Page Title
+04/22/2021 12:10:47 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:10:47 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:10:47 PM: INFO: launch Url : https://admin-demo.nopcommerce.com/
+launch Url : https://admin-demo.nopcommerce.com/
+04/22/2021 12:10:50 PM: INFO: test Search Customer By Mail Id
+test Search Customer By Mail Id
+04/22/2021 12:10:52 PM: INFO: Enter Username admin@yourstore.com
+Enter Username admin@yourstore.com
+04/22/2021 12:10:53 PM: INFO: Enter Password  admin
+Enter Password  admin
+04/22/2021 12:10:55 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:10:55 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 12:10:55 PM: INFO: ************Login Successfully *************
+************Login Successfully *************
+04/22/2021 12:11:00 PM: INFO: Click On Button LOG IN
+Click On Button LOG IN
+04/22/2021 12:11:00 PM: INFO: Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+Expected : Dashboard / nopCommerce administration Actual: Dashboard / nopCommerce administration
+04/22/2021 12:11:00 PM: INFO: Add Customer Details
+Add Customer Details
+04/22/2021 12:11:05 PM: INFO: ************* Providing customer info**************
+************* Providing customer info**************
+04/22/2021 12:11:21 PM: INFO: ************* Saving customer info**************
+************* Saving customer info**************
+04/22/2021 12:11:21 PM: INFO: ************* Add customer Validation Started**************
+************* Add customer Validation Started**************
+04/22/2021 12:11:22 PM: INFO: Unicode Format Error !!
+Unicode Format Error !!
+04/22/2021 12:11:26 PM: INFO: Browser And Driver Closeed !!!!!
+Browser And Driver Closeed !!!!!
